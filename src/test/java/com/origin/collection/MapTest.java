@@ -26,9 +26,24 @@ public class MapTest {
         treeMap.put(50, "50");
 
 
-        for (Map.Entry<Integer, String> entry : treeMap.entrySet()) {
-            System.out.println(entry.getKey() + ":" + entry.getValue());
-        }
+//        for (Map.Entry<Integer, String> entry : treeMap.entrySet()) {
+//            System.out.println(entry.getKey() + ":" + entry.getValue());
+//        }
+        System.out.println(16&15);
+        System.out.println(17&15);
+        System.out.println(3&15);
+        System.out.println(4&15);
+        System.out.println(5&15);
+        System.out.println(6&15);
+        System.out.println(7&15);
+        System.out.println(8&15);
+        System.out.println(9&15);
+        System.out.println(10&15);
+        System.out.println(12&15);
+        System.out.println(12&15);
+        System.out.println(13&15);
+        System.out.println(14&15);
+        System.out.println(15&15);
     }
 
 }

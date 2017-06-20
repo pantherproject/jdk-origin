@@ -6,6 +6,6 @@ package com.origin.collection;
  */
 public class TreeMapOrigin {
     public static void main(String[] args) {
-
+        System.out.println(7 &~ 6);
     }
 }
